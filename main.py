@@ -4,7 +4,7 @@ import time
 
 
 #CONWAY'S GAME OF LIFE:
-#Cells can be alive or dead: red or white
+#Cells can be alive or dead: red or white, in this case they are bounded by the window.
 #they must obey certain conditions:
 #1: Every living cell with less than two adjacent living cells dies, by effect of loneliness.
 #2: Every living cell with more than three adjacent living cells dies, by effect of over population.
